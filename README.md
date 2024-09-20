@@ -1,24 +1,6 @@
 # WCAY Object Detection of Fractures for X-ray Images of Multiple Sites  
 This preprint has been posted on [Research Square](https://www.researchsquare.com/article/rs-4282215/latest).  
 
-  
- | Peer review | date | 
- | --- | --- |
- | Revision received | 17 Sep 2024 | 
- | Revision requested | 09 Sep 2024 | 
- | Reviewer report(s) received | 21 Aug 2024 | 
- | Reviewer(s) accepted | 09 Aug 2024 | 
- | First reviewer(s) invited | 22 Jul 2024 | 
- | __With editor__ |  | 
- | Editor assigned | 16 Jul 2024 |  
- | __Editorial assignment__ |  | 
- | Ready for editorial assignment | 20 May 2024 | 
- | __Technical check__ |  | 
- | Submission passed technical check | 20 May 2024 | 
- | Amendment received | 19 Apr 2024 | 
- | Amendment requested | 19 Apr 2024 | 
- | Submission is under technical check | 17 Apr 2024 | 
- 
 
 
 ## Abstract  
@@ -37,3 +19,22 @@ This preprint has been posted on [Research Square](https://www.researchsquare.co
 `SSDD`：https://github.com/TianwenZhang0825/Official-SSDD  
   
 Loading…
+
+  
+ | Peer review | date | 
+ | --- | --- |
+ | Revision received | 17 Sep 2024 | 
+ | Revision requested | 09 Sep 2024 | 
+ | Reviewer report(s) received | 21 Aug 2024 | 
+ | Reviewer(s) accepted | 09 Aug 2024 | 
+ | First reviewer(s) invited | 22 Jul 2024 | 
+ | __With editor__ |  | 
+ | Editor assigned | 16 Jul 2024 |  
+ | __Editorial assignment__ |  | 
+ | Ready for editorial assignment | 20 May 2024 | 
+ | __Technical check__ |  | 
+ | Submission passed technical check | 20 May 2024 | 
+ | Amendment received | 19 Apr 2024 | 
+ | Amendment requested | 19 Apr 2024 | 
+ | Submission is under technical check | 17 Apr 2024 | 
+ 
