@@ -37,4 +37,8 @@ Loading…
  | Amendment received | 19 Apr 2024 | 
  | Amendment requested | 19 Apr 2024 | 
  | Submission is under technical check | 17 Apr 2024 | 
+ | Amendment requested | 21 Sep 2024 | 
+ | Amendment received | 21 Sep 2024 | 
+ | Submission passed technical check | 21 Sep 2024 | 
+ | First reviewer(s) invited | 23 Sep 2024 | 
  
