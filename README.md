@@ -23,6 +23,7 @@ Loading…
   
  | Peer review | date | 
  | --- | --- | 
+ | Reviewer report(s) received | 23 Oct 2024 | 
  | Reviewer(s) accepted | 02 Oct 2024 | 
  | First reviewer(s) invited | 23 Sep 2024 | 
  | Submission passed technical check | 21 Sep 2024 | 
