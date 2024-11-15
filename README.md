@@ -22,6 +22,13 @@ Loading…
   
  | Peer review | date | 
  | --- | --- | 
+ | __Production__ |  | 
+ | Publishing and rights complete | 28 Oct 2024 | 
+ | __Publishing and rights__ |  | 
+ | Submission is in publishing and rights | 27 Oct 2024 | 
+ | __Submission accepted__ |  | 
+ | Submission accepted | 25 Oct 2024 | 
+ | __Peer review__ |  | 
  | Reviewer report(s) received | 23 Oct 2024 | 
  | Reviewer(s) accepted | 02 Oct 2024 | 
  | First reviewer(s) invited | 23 Sep 2024 | 
