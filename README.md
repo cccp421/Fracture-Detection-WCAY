@@ -20,33 +20,3 @@ Presented herein is the WCAY (Weighted Channel attention YOLO) model, meticulous
 Loading…
 
   
- | Peer review | date | 
- | --- | --- | 
- | __Production__ |  | 
- | Publishing and rights complete | 28 Oct 2024 | 
- | __Publishing and rights__ |  | 
- | Submission is in publishing and rights | 27 Oct 2024 | 
- | __Submission accepted__ |  | 
- | Submission accepted | 25 Oct 2024 | 
- | __Peer review__ |  | 
- | Reviewer report(s) received | 23 Oct 2024 | 
- | Reviewer(s) accepted | 02 Oct 2024 | 
- | First reviewer(s) invited | 23 Sep 2024 | 
- | Submission passed technical check | 21 Sep 2024 | 
- | Amendment received | 21 Sep 2024 | 
- | Amendment requested | 21 Sep 2024 | 
- | Revision received | 17 Sep 2024 | 
- | Revision requested | 09 Sep 2024 | 
- | Reviewer report(s) received | 21 Aug 2024 | 
- | Reviewer(s) accepted | 09 Aug 2024 | 
- | First reviewer(s) invited | 22 Jul 2024 | 
- | __With editor__ |  | 
- | Editor assigned | 16 Jul 2024 |  
- | __Editorial assignment__ |  | 
- | Ready for editorial assignment | 20 May 2024 | 
- | __Technical check__ |  | 
- | Submission passed technical check | 20 May 2024 | 
- | Amendment received | 19 Apr 2024 | 
- | Amendment requested | 19 Apr 2024 | 
- | Submission is under technical check | 17 Apr 2024 | 
- 
